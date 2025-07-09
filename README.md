@@ -34,12 +34,10 @@ Data validation and formatting
 Chart: Bell Curve
 
 📁 Files Included
-Copy
-Edit
 📦 student-test-scores-analysis
-├── 📄 README.md
-├── 📊 Student_Scores_Cleaned.xlsx
-└── 📊 Student_Scores_Original.xlsx
+📄 README.md
+📊 Student_Scores_Cleaned.xlsx
+📊 Student_Scores_Original.xlsx
 Student_Scores_Original.xlsx: Raw data as obtained
 
 Student_Scores_Cleaned.xlsx: Cleaned dataset with added columns and visual analysis
